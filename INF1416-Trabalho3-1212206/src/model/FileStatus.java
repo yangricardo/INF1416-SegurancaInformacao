@@ -1,0 +1,8 @@
+package model;
+
+public enum FileStatus {
+	FILEENVNOTFOUND,
+	FILEENCNOTFOUND,
+	FILEENVASDOK,
+	FILEENVASDNOTOK
+}
